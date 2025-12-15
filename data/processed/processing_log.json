@@ -1,0 +1,288 @@
+[
+  {
+    "timestamp": "2025-12-10T11:08:37.671702",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\company_wide\\Code_of_Conduct.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.689908",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\company_wide\\Information_Security_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.693918",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\Employee_Wellness_Benefits.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.698923",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\HR_Policy_Manual.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.708030",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\Learning_Development_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.714027",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\IT_Helpdesk_Guide.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.726606",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\IT_Infrastructure_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.742419",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\Software_Development_Handbook.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.747438",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\Compliance_Audit_Framework.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.752446",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\Procurement_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:08:37.756447",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\SOP_Manual.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.237461",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\company_wide\\Code_of_Conduct.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.244734",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\company_wide\\Information_Security_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.258250",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\Employee_Wellness_Benefits.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.262250",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\HR_Policy_Manual.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.267251",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\Learning_Development_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.280765",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\IT_Helpdesk_Guide.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.287657",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\IT_Infrastructure_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.292657",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\Software_Development_Handbook.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.296653",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\Compliance_Audit_Framework.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.303766",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\Procurement_Policy.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-10T11:28:28.316104",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\SOP_Manual.pdf",
+    "status": "failed",
+    "metadata": {
+      "error": "No /Root object! - Is this really a PDF?"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:04.719780",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\company_wide\\Code_of_Conduct.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 5366,
+      "department": "Company Wide"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:05.409550",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\company_wide\\Information_Security_Policy.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 5441,
+      "department": "Company Wide"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:05.771132",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\Employee_Wellness_Benefits.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 1873,
+      "department": "Human Resources"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:06.390837",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\HR_Policy_Manual.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 4357,
+      "department": "Human Resources"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:06.773462",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\hr\\Learning_Development_Policy.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 2264,
+      "department": "Human Resources"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:07.457598",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\IT_Helpdesk_Guide.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 3451,
+      "department": "IT & Technical"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:08.013614",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\IT_Infrastructure_Policy.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 3320,
+      "department": "IT & Technical"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:08.542765",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\it_tech\\Software_Development_Handbook.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 3359,
+      "department": "IT & Technical"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:08.905064",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\Compliance_Audit_Framework.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 1866,
+      "department": "Operations"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:09.247650",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\Procurement_Policy.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 1733,
+      "department": "Operations"
+    }
+  },
+  {
+    "timestamp": "2025-12-11T09:33:09.777050",
+    "document": "C:\\Users\\Praddipraj\\Documents\\AI_Enterprise_Copilot\\ai_enterprise_copilot\\data\\raw_documents\\operations\\SOP_Manual.pdf",
+    "status": "success",
+    "metadata": {
+      "chunks_processed": 1,
+      "total_text_length": 3412,
+      "department": "Operations"
+    }
+  }
+]
