@@ -1,0 +1,244 @@
+1. DECISION SUPPORT QUERIES (During Decision Window - Last 60 minutes)
+Scenario: Normal Operation (Cycle 3)
+
+text
+"What if I defer backwash by 8 hours instead of 4?"
+"Should I backwash now or wait until tomorrow morning?"
+"What happens if I extend this cycle by 6 more hours?"
+"Considering current FMHS of 78, can I safely delay backwash until off-peak hours?"
+"If I wait 4 hours, will I breach any hard triggers?"
+"What's the cost difference between backwashing now vs at 2 AM?"
+Scenario: High Turbidity (Cycle 14)
+
+text
+"Why is FMHS dropping so quickly in this cycle?"
+"Should I be worried about current turbidity at 0.35 NTU?"
+"If I delay backwash by 2 hours, what's the worst-case turbidity?"
+"Why can't I defer backwash in high turbidity scenario?"
+"What immediate actions can reduce turbidity spike?"
+Scenario: High Differential Pressure (Cycle 17)
+
+text
+"DP is at 195 bar and rising. Should I panic?"
+"If I reduce flow rate, will it help with pressure?"
+"Why is backwash mandatory when DP exceeds 200?"
+"What happens if DP reaches 210 bar?"
+"Can I run the filter for 1 more hour at current DP trend?"
+Scenario: PWRE Penalty (Cycle 13)
+
+text
+"Why does my FMHS start at 80 instead of 100?"
+"What does '-20 Poor Recovery' mean?"
+"How can I improve post-wash recovery next cycle?"
+"Is this poor recovery affecting water quality?"
+"Should I change backwash duration for better recovery?"
+2. REAL-TIME MONITORING QUERIES (During Filtering Phase)
+General Monitoring:
+
+text
+"What's causing the current DP rise rate?"
+"Why is turbidity fluctuating between 0.12 and 0.15 NTU?"
+"Is current flow rate optimal for filter efficiency?"
+"Should I be concerned about level stability?"
+"What do these FMHS component scores indicate?"
+Trend Analysis:
+
+text
+"DP has been increasing 5 bar/hour for the last 2 hours. Is this normal?"
+"Turbidity TSI is 0.025. What does this mean for filter health?"
+"Flow stability score is only +5. Should I adjust pumps?"
+"Level has dropped 0.2m in the last hour. Is this expected?"
+"FMHS dropped from 85 to 72 in 4 hours. What happened?"
+Comparative Questions:
+
+text
+"How does current cycle compare to previous normal cycles?"
+"Is this DP trend typical for this scenario?"
+"Are we seeing better or worse performance than cycle average?"
+"How does current turbidity compare to historical maxima?"
+3. WHAT-IF SCENARIO QUERIES
+Parameter Modification:
+
+text
+"What if I increase flow rate by 10%?"
+"What if turbidity continues rising at current rate for 3 more hours?"
+"What if DP stabilizes at current level for next 6 hours?"
+"What if I reduce filter loading by 20%?"
+Timing Questions:
+
+text
+"What if I schedule backwash at 3 PM instead of 10 AM?"
+"What if I extend this cycle through the peak tariff window?"
+"What if I could only backwash during mid-peak hours?"
+"What's the latest I can safely defer backwash?"
+Operational Changes:
+
+text
+"What if we skip this backwash and run for 12 more hours?"
+"What if we increase backwash duration by 30 minutes?"
+"What if we reduce backwash frequency by 10%?"
+"What if we operate at higher turbidity thresholds?"
+4. HARD TRIGGER RELATED QUERIES
+Threshold Proximity:
+
+text
+"Current DP is 205 bar. What are my options?"
+"Turbidity just hit 0.38 NTU. What's the protocol?"
+"We're at 54 hours runtime. How much longer can we go?"
+"Two hard triggers are approaching. Which will hit first?"
+Emergency Response:
+
+text
+"DP just exceeded 210 bar. What should I do immediately?"
+"Turbidity alarm triggered at 0.41 NTU. Next steps?"
+"System shows runtime exceeded 56 hours. Is shutdown automatic?"
+"Multiple hard triggers breached. Priority order?"
+5. TARIFF & COST OPTIMIZATION QUERIES
+Cost Analysis:
+
+text
+"How much will backwash cost during peak hours?"
+"What's the cost saving if I wait for off-peak?"
+"Is tariff optimization worth risking filter health?"
+"Compare energy cost vs water quality impact of deferring backwash."
+Scheduling:
+
+text
+"What's the best time tomorrow for backwash considering both cost and operations?"
+"If I defer 6 hours, will I hit peak tariff?"
+"Can I schedule backwash during weekend off-peak?"
+"What if next off-peak window is 8 hours away?"
+6. SCENARIO-SPECIFIC QUERIES
+Short Cycle (Cycle 21):
+
+text
+"Why is this cycle so short compared to others?"
+"Both DP and turbidity are rising fast. Which will trigger first?"
+"Can I extend this cycle at all, or is backwash imminent?"
+"What caused such rapid parameter degradation?"
+Long Cycle (Cycle 23):
+
+text
+"Why is this cycle running so long without issues?"
+"At 40 hours, FMHS is still 85. Is this normal?"
+"Can we safely extend to 60 hours based on current trends?"
+"What makes this cycle different from normal ones?"
+PWRE Penalty (Cycle 13):
+
+text
+"Why did previous backwash have poor recovery?"
+"How can I ensure better recovery next cycle?"
+"Is the -20 penalty affecting overall plant efficiency?"
+"Should I investigate filter media condition?"
+7. FMHS & HEALTH SCORE QUERIES
+Component Analysis:
+
+text
+"DP rise rate penalty is -15. How can I reduce this?"
+"TSI is -25. What does this indicate about turbidity control?"
+"Flow stability is +10. Is this good enough?"
+"Why is level stability only +5?"
+Score Improvement:
+
+text
+"What would improve my FMHS from 65 to 75?"
+"Which component has the biggest negative impact on my score?"
+"How can I maintain FMHS above 85 for longer?"
+"What operational changes would increase flow stability score?"
+Trend Questions:
+
+text
+"FMHS has dropped 2 points per hour for last 3 hours. Is this trend concerning?"
+"When should I expect FMHS to fall below 50?"
+"If current trends continue, what will FMHS be in 4 hours?"
+"Is FMHS degradation accelerating or stable?"
+8. TECHNICAL & DIAGNOSTIC QUERIES
+Root Cause Analysis:
+
+text
+"What could cause simultaneous DP and turbidity increase?"
+"Why is flow decreasing while level remains stable?"
+"What might explain sudden parameter fluctuations?"
+"Are these readings indicative of mechanical issues?"
+System Understanding:
+
+text
+"Explain how DP rise rate affects FMHS calculation."
+"How does TSI differ from simple turbidity measurement?"
+"Why does previous cycle duration affect current FMHS?"
+"How is post-wash recovery efficiency measured?"
+Validation Questions:
+
+text
+"Are these sensor readings reliable given current trends?"
+"Should I trust the FMHS calculation with current data quality?"
+"Is there a pattern to these parameter fluctuations?"
+"Could this be a sensor calibration issue vs actual problem?"
+9. OPERATIONAL STRATEGY QUERIES
+Planning Questions:
+
+text
+"Based on current trends, when should I schedule next backwash?"
+"What's the optimal backwash frequency for current water quality?"
+"Should I adjust backwash parameters based on FMHS trends?"
+"How can I predict which cycle will be short vs long?"
+Efficiency Questions:
+
+text
+"How can I maximize filter runtime without risking hard triggers?"
+"What's the trade-off between energy cost and filter wear?"
+"Is it better to backwash early or risk approaching thresholds?"
+"How do I balance water quality vs operational costs?"
+10. EDGE CASE & TROUBLESHOOTING QUERIES
+Anomaly Detection:
+
+text
+"DP suddenly dropped 20 bar. Is this normal?"
+"Turbidity reading is 0.05 NTU after being 0.12. Sensor issue?"
+"Flow is zero but filter is running. What's happening?"
+"All parameters stable but FMHS dropping. Why?"
+Recovery Questions:
+
+text
+"After a hard trigger backwash, how long to stabilize?"
+"What parameters should I monitor closely post-backwash?"
+"How do I know if backwash was effective?"
+"When can I resume normal operation after emergency backwash?"
+System Limits:
+
+text
+"What's the maximum safe DP for brief periods?"
+"Can turbidity exceed 0.4 NTU for 5 minutes without damage?"
+"What happens if we ignore a hard trigger warning?"
+"Emergency protocol if all triggers breach simultaneously?"
+11. PREDICTIVE & FORECASTING QUERIES
+Trend Projection:
+
+text
+"Based on last 2 hours, where will DP be in 3 hours?"
+"If current trends continue, when will turbidity hit 0.3 NTU?"
+"Project FMHS for next 8 hours assuming current degradation rate."
+"When will we need backwash if nothing changes?"
+What-If Forecasting:
+
+text
+"If I reduce flow by 15%, how will that affect DP trend?"
+"If raw water turbidity increases by 20%, what happens to my cycle?"
+"If ambient temperature rises 5°C, how does it affect filter performance?"
+"If I change filter media grade, what FMHS improvement can I expect?"
+12. INTEGRATED DECISION MAKING QUERIES
+Multi-Factor Analysis:
+
+text
+"Considering FMHS 68, DP 185, and tariff in 2 hours, what should I do?"
+"Turbidity 0.32 NTU, DP 190, runtime 45 hours. Priority order?"
+"FMHS dropping, approaching peak tariff, crew available in 4 hours. Decision?"
+"Multiple cycles need backwash. Which has highest priority?"
+Risk Assessment:
+
+text
+"What's the risk level of deferring backwash 6 hours with current parameters?"
+"If I wait for off-peak, what's the probability of hard trigger breach?"
+"Compare risk of early backwash vs extended runtime."
+"Is saving £200 worth risking filter damage?"
+TESTING PROTOCOL
